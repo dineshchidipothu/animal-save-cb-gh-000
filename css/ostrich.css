@@ -5,6 +5,7 @@ html {
   #ostrich{
     position:fixed;
     bottom: 200px;
+    right:0;
   }
 }
 #ostrich {
