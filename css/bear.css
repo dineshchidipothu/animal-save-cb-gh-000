@@ -1,7 +1,12 @@
 html {
   background: url(../images/cliff.jpg) no-repeat top left;
 }
-
+@media all and (min-width:1196px){
+  #bear{
+  position:absolute;
+  margin-bottom: 100px;
+}
+}
 #bear {
   position: absolute;
   top: 100px;
@@ -9,4 +14,3 @@ html {
 }
 
 /* Write your solution here */
-

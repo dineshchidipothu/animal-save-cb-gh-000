@@ -1,7 +1,12 @@
 html {
   background: url(../images/croc.jpg) no-repeat top left;
 }
-
+@media all and (max-width:1300px){
+  #ostrich{
+    position:absolute;
+    bottom: 100px;
+  }
+}
 #ostrich {
   position: absolute;
   top: 50px;
