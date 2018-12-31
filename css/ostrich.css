@@ -4,8 +4,8 @@ html {
 @media all and (max-width:1300px){
   #ostrich{
     position:fixed;
-    bottom: 200px;
-    right:0;
+    top: 200px;
+    right:200px;
   }
 }
 #ostrich {
